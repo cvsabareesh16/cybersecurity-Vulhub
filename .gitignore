@@ -1,9 +1,36 @@
-# Ignore sensitive files
-*.pcap
-*.cap
+# 🔐 Sensitive files
+
+.env
 *.key
 *.pem
-passwords.txt
-hashes.txt
+*.crt
+*.pfx
+
+# 📊 Scan outputs
+
+*.xml
+*.gnmap
 *.log
+*.pcap
+
+# 🧪 Tool data
+
+*.burp
+sqlmapoutput/
+*.sqlite
+
+# 💻 System files
+
 .DS_Store
+Thumbs.db
+
+# 📝 Temporary files
+
+*.tmp
+*.swp
+
+# 📦 Python (if you use scripts later)
+
+**pycache**/
+*.pyc
+
