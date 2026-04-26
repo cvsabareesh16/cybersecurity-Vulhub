@@ -1,0 +1,9 @@
+# Ignore sensitive files
+*.pcap
+*.cap
+*.key
+*.pem
+passwords.txt
+hashes.txt
+*.log
+.DS_Store
