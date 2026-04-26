@@ -53,6 +53,6 @@ My goal is to become a Web Penetration Tester / VAPT Trainee by building practic
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/sabareesh-cv-43a53a212/)
+- LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/sabareesh-cv-43a53a212)
 - GitHub: [https://github.com/cvsabareesh16](https://github.com/cvsabareesh16)
 - Email: cvsabareesh350@gmail.com
